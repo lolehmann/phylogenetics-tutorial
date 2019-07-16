@@ -1,5 +1,4 @@
-# Phylogenetics Tutorial
-harmslab phylogenetics tutorial 
+# Contributing
 
 # To add:
 
