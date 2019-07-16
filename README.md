@@ -2,16 +2,15 @@
 
 (readthedocs [link]() coming soon)
 
-Phylogenetic analysis is appealing to biochemists for understanding how proteins evolve. However, it can be intimidating - where do you start? How do you create and curate a sequence alignment? What model(s) should I use when building trees, and what are these models doing anyway? How do you evaluate the quality of a tree or ancestrally reconstructed proteins? What's with all of these obnoxious file formats?
+Phylogenetics is appealing to biochemists for understanding how proteins evolve, but it can be intimidating. Where do you start? How do you create and curate a sequence alignment? What model(s) should I use when building trees, and what are these models doing anyway? How do you evaluate the quality of a tree or ancestrally reconstructed proteins? What's with all of these obnoxious file formats?
 
+### *If you're asking yourself any or all of these questions, you've come to the right place. This tutorial will walk you through phylogenetic analysis from start to finish.*
 
+<br/>
 
-### *If you're asking yourself any or all of these questions, you've come to the right place. This tutorial walks through phylogenetics from start to finish.*
+We use python and [jupyter notebooks](https://github.com/jupyter/notebook) to interface with established phylogenetic packages. If you are new to using these, you can quickly get up and running [here](https://python-for-scientists.readthedocs.io/en/latest/).
 
-
-
-We use python and jupyter notebooks to interface with established phylogenetic packages. If you are new to using these, you can quickly get up and running [here](https://python-for-scientists.readthedocs.io/en/latest/).
-
+<br/>
 
 #### We then walk through the three basic steps of phylogenetic analysis:
 
@@ -21,7 +20,7 @@ We use python and jupyter notebooks to interface with established phylogenetic p
 
 - [reconstructing ancestral proteins]()
 
-
+<br/>
 
 #### We also include information on commonly asked questions and pitfalls:
 
