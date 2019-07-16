@@ -2,7 +2,7 @@
 
 (readthedocs [link]() coming soon)
 
-Phylogenetics is appealing to biochemists for understanding how proteins evolve, but it can be intimidating. Where do you start? How do you create and curate a sequence alignment? What model(s) should I use when building trees, and what are these models doing anyway? How do you evaluate the quality of a tree or ancestrally reconstructed proteins? What's with all of these obnoxious file formats?
+Phylogenetics is appealing to biochemists for understanding how proteins evolve, but it can be intimidating. *Where do I start? How do I create and curate a sequence alignment? What model(s) should I use when building trees, and what are these models doing anyway? How do I evaluate the quality of a tree or ancestrally reconstructed proteins? What's with all of these obnoxious file formats?*
 
 ### *If you're asking yourself any or all of these questions, you've come to the right place. This tutorial will walk you through phylogenetic analysis from start to finish.*
 
