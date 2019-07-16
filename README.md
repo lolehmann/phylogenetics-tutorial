@@ -15,7 +15,7 @@ We use python and [jupyter notebooks](https://github.com/jupyter/notebook) to in
 
 <br/>
 
-#### We then walk through the three basic steps of phylogenetic analysis:
+#### Three basic steps for phylogenetic analysis:
 
 - [gathering and aligning sequences]()
 
@@ -25,7 +25,7 @@ We use python and [jupyter notebooks](https://github.com/jupyter/notebook) to in
 
 <br/>
 
-#### We also include information on commonly asked questions and pitfalls:
+#### Commonly asked questions and pitfalls:
 
 - managing data and file formats with [phylopandas](https://github.com/Zsailer/phylopandas)
 
