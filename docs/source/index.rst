@@ -15,7 +15,7 @@ Phylogenetics is appealing to biochemists for understanding how proteins evolve,
 
 We use python and `jupyter notebooks`(https://github.com/jupyter/notebook) to interface with established phylogenetic packages. If you are new to using these, you can quickly get up and running [here](https://python-for-scientists.readthedocs.io/en/latest/).
 
-:ref: `Three basic steps <basics>` for phylogenetic analysis:
+:ref:`Three basic steps <basics>` for phylogenetic analysis:
 
 - gathering and aligning sequences
 
