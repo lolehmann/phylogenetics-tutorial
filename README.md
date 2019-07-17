@@ -1,7 +1,5 @@
 # Phylogenetics Tutorial for Biochemists
 
-(readthedocs [link]() coming soon)
-
 Phylogenetics is appealing to biochemists for understanding how proteins evolve, but it can be **intimidating**. 
 
 
