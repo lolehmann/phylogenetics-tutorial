@@ -1,6 +1,14 @@
 # Contributing
 
-# To add:
+*To contribute: 
+- make yourself a github account
+- fork this project
+- make changes on your fork 
+- submit a pull request to the main project and we'll get it added!
+
+If you'd like to work on this project on your local computer and become a git master, see [here](https://github.com/Zsailer/guide-to-working-as-team-on-github) for a nifty infographic on how to use github as a team.*
+
+# Ideas and things to add:
 
 - intro - why is this useful?
 
